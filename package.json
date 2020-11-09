@@ -1,0 +1,28 @@
+{
+  "name": "twitch-bot",
+  "version": "1.0.0",
+  "description": "Javascript IRC bot that connects to Twitch.tv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joseatrejos/NodeJS-Twitch-Bot-IRC.git"
+  },
+  "keywords": [
+    "bot",
+    "twitch",
+    "node",
+    "irc"
+  ],
+  "author": "José Alberto Trejo Serrano",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/joseatrejos/NodeJS-Twitch-Bot-IRC/issues"
+  },
+  "homepage": "https://github.com/joseatrejos/NodeJS-Twitch-Bot-IRC#readme",
+  "dependencies": {
+    "tmi.js": "^1.5.0"
+  }
+}
